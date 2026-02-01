@@ -17,5 +17,5 @@ The tunnel was designed using CAD software and constructed using simple, easily 
 - Acrylic and plywood construction
 
 ## Authors
-Bhumika
+Bhumika,
 Niharika Agrawal  
